@@ -1,0 +1,85 @@
+[21/10/2026 11:00:35]
+Usuário: Oi
+Intenção: saudacao
+EcoBot: Olá! ♻️ Sou o EcoBot! Posso ajudar você a separar o lixo e cuidar do meio ambiente.
+
+[21/10/2026 11:00:44]
+Usuário: Oi
+Intenção: saudacao
+EcoBot: Olá! ♻️ Sou o EcoBot! Posso ajudar você a separar o lixo e cuidar do meio ambiente.
+
+[21/10/2026 11:00:47]
+Usuário: Kkkk
+Intenção: desconhecida
+EcoBot: ❌ Desculpe, não consegui entender sua pergunta.
+Tente perguntar de outra maneira.
+Exemplos:
+- Onde descartar papel?
+- Como reciclar plástico?
+- Onde jogar pilhas?
+- Quais são as cores das lixeiras?
+Digite 'ajuda' para ver mais opções.
+
+[21/10/2026 11:00:55]
+Usuário: Ajuda
+Intenção: ajuda
+EcoBot: ♻️ Você pode perguntar sobre:
+- Papel, plástico, vidro e metal
+- Orgânicos, pilhas e baterias
+- Óleo de cozinha e eletrônicos
+- Cores das lixeiras
+- Coleta seletiva e reciclagem
+Digite sua dúvida!
+
+[21/10/2026 11:04:46]
+Usuário: Oi
+Intenção: saudacao
+EcoBot: Olá! ♻️ Sou o EcoBot! Posso ajudar você a separar o lixo e cuidar do meio ambiente.
+
+[21/10/2026 11:07:42]
+Usuário: Onde jogo latinha
+Intenção: metal
+EcoBot: 🟡 METAL: descarte na lixeira amarela.
+Exemplos: latas de refrigerante, latinhas e latas de alimentos.
+
+[21/10/2026 11:07:51]
+Usuário: Ok
+Intenção: despedida
+EcoBot: 🌱 EcoBot: Obrigado por ajudar o meio ambiente!
+Até a próxima! ♻️
+
+[21/10/2026 11:08:03]
+Usuário: Onde jogo papelão
+Intenção: papel
+EcoBot: 🔵 PAPEL: descarte na lixeira azul.
+Exemplos: jornais, revistas, caixas e folhas de papel limpas e secas.
+
+[21/10/2026 11:10:29]
+Usuário: ola
+Intenção: saudacao
+EcoBot: Olá! ♻️ Sou o EcoBot! Posso ajudar você a separar o lixo e cuidar do meio ambiente.
+
+[21/10/2026 11:11:02]
+Usuário: pepel
+Intenção: desconhecida
+EcoBot: ❌ Desculpe, não consegui entender sua pergunta.
+Tente perguntar de outra maneira.
+Exemplos:
+- Onde descartar papel?
+- Como reciclar plástico?
+- Onde jogar pilhas?
+- Quais são as cores das lixeiras?
+Digite 'ajuda' para ver mais opções.
+
+[21/10/2026 11:11:17]
+Usuário: onde jogar papel usado?
+Intenção: papel
+EcoBot: 🔵 PAPEL: descarte na lixeira azul.
+Exemplos: jornais, revistas, caixas e folhas de papel limpas e secas.
+
+[21/10/2026 11:11:37]
+Usuário: qual a cor onde devo jogar pilhas?
+Intenção: pilhas
+EcoBot: 🔋 Pilhas e baterias não devem ir para o lixo comum.
+Leve até um ponto de coleta específico.
+
